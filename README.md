@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/zhydian/MS%20Learn%20Devops/_apis/build/status/zhydian.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/zhydian/MS%20Learn%20Devops/_build/latest?definitionId=14&branchName=master)
 
 # Contributing
 
